@@ -1,0 +1,111 @@
+{
+    "cars": [
+        {
+            "image": "images/audi-black.jpg",
+            "model": "Audi",
+            "onSale": 55,
+            "abouts": [
+                "Audi",
+                "9.999.000$",
+                "Black"
+            ],
+            "products": [
+                {
+                    "id": "01",
+                    "color": "black",
+                    "img": "images/audi-black.jpg",
+                    "onSale": 70
+                },
+                {
+                    "id": "02",
+                    "color": "red",
+                    "img": "images/audi-red.jpg",
+                    "onSale": 30
+                },
+                {
+                    "id": "03",
+                    "color": "white",
+                    "img": "images/audi-white.jpg",
+                    "onSale": 0
+                }
+            ]
+        },
+        {
+            "image": "images/mustang-blue.jpg",
+            "model": "Mustang",
+            "onSale": 65,
+            "abouts": [
+                "Mustang",
+                "3.333.000$",
+                "Blue"
+            ],
+            "products": [
+                {
+                    "id": "01",
+                    "color": "gold",
+                    "img": "images/mustang-gold.jpg",
+                    "onSale": 0
+                },
+                {
+                    "id": "02",
+                    "color": "red",
+                    "img": "images/mustang-red.jpg",
+                    "onSale": 30
+                },
+                {
+                    "id": "03",
+                    "color": "white",
+                    "img": "images/mustang-white.jpg",
+                    "onSale": 70
+                }
+            ]
+        },
+        {
+            "image": "images/onix-blue.jpg",
+            "model": "Onix",
+            "onSale": 55,
+            "abouts": [
+                "Onix",
+                "7.777.000$",
+                "Black"
+            ],
+            "products": [
+                {
+                    "id": "01",
+                    "color": "blue",
+                    "img": "images/onix-blue.jpg",
+                    "onSale": 20
+                },
+                {
+                    "id": "02",
+                    "color": "red",
+                    "img": "images/onix-red.jpg",
+                    "onSale": 0
+                },
+                {
+                    "id": "03",
+                    "color": "white",
+                    "img": "images/onix-white.jpg",
+                    "onSale": 90
+                }
+            ]
+        }
+    ],
+    "abouts": [
+        {
+            "img": "https://picsum.photos/150/150?random=1",
+            "title": "JOHN DOE.",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, id molestias odio perferendis sed nobis eum iure dolorem error officiis."
+        },
+        {
+            "img": "https://picsum.photos/150/150?random=2",
+            "title": "JIMMY BRAUN.",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, id molestias odio perferendis sed nobis eum iure dolorem error officiis."
+        },
+        {
+            "img": "https://picsum.photos/150/150?random=3",
+            "title": "MARIA UOLS.",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, id molestias odio perferendis sed nobis eum iure dolorem error officiis."
+        }
+    ]
+}
